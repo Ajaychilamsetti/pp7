@@ -8,13 +8,12 @@
 body{
     overflow: hidden;
     background-color: #dfd3eb;
-    height: 90vh;
 }
 .con{
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: auto;
+    height: 90vh;
     align-items: center;
 }
 .uppercon{
