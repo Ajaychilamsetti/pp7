@@ -8,6 +8,7 @@
 body{
     overflow: hidden;
     background-color: #dfd3eb;
+    height: 90vh;
 }
 .con{
     display: flex;
